@@ -14,13 +14,13 @@
 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eabdalmufid&theme=algolia" alt="eabdalmufid"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eabdalmufid&theme=algolia" alt="RullDev"  /></p>
 
 <p align="left"> 
 
 
    
-   <a href="https://chat.whatsapp.com/I2OK9w2mkIpKngLpFs0i93"><img width="83" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png">
+   <a href="https://chat.whatsapp.com/D2NUDa6vk4I6hrS176mErV"><img width="83" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png">
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
@@ -62,14 +62,14 @@
 
 ### 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="https://github.com/eabdalmufid"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://instagram.com/eabdalmufid_"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://github.com/RullDev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://instagram.com/khoirul36_"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
 
 
 
-* Credit: [Abdul Mufid](https://github.com/eabdalmufid)
+* Credit: [KhrlMstfa](https://github.com/RullDev)
 * Last Edited on: 05/03/2022
 
 
