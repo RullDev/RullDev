@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Abdul Mufid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm KhrlMstfa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
@@ -38,7 +38,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/eabdalmufid/github-readme-stats"><img alt="eabdalmufid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eabdalmufid&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/RullDev/github-readme-stats"><img alt="eabdalmufid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eabdalmufid&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eabdalmufid&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
